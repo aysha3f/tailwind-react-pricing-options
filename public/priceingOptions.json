@@ -1,0 +1,61 @@
+{
+  "pricing_options": [
+    {
+      "id": "plan_001",
+      "name": "Starter Pack",
+      "price": "₹1,499 / month",
+      "ideal_for": "Beginners or casual fitness enthusiasts",
+      "features": [
+        "Full access to gym floor (cardio + strength zones)",
+        "Locker room + shower access",
+        "1 complimentary fitness assessment",
+        "Open hours: 6 AM – 10 PM",
+        "Free Wi-Fi",
+        "Access to gym app for workout tracking",
+        "Member discounts on shakes, supplements, and merch",
+        "Basic orientation with a personal trainer",
+        "Weekly progress tips via email"
+      ],
+      "add_on": "Personal training @ ₹800/session"
+    },
+    {
+      "id": "plan_002",
+      "name": "Pro Pack",
+      "price": "₹2,799 / month",
+      "ideal_for": "Regular gym-goers who want structure and extra motivation",
+      "features": [
+        "All Starter Pack benefits",
+        "Unlimited access to group classes (Zumba, HIIT, Yoga, Spin)",
+        "2 personal training sessions per month",
+        "Monthly nutrition consultation",
+        "Smart band entry system",
+        "Priority locker access",
+        "Access to exclusive weekend workshops",
+        "Supplement discounts up to 15%",
+        "Guest pass once a month",
+        "Access to member-only fitness challenges"
+      ],
+      "bonus": "Free body composition analysis every quarter"
+    },
+    {
+      "id": "plan_003",
+      "name": "Elite Pack",
+      "price": "₹4,499 / month",
+      "ideal_for": "Athletes and fitness enthusiasts serious about performance",
+      "features": [
+        "Everything in Pro Pack",
+        "Unlimited personal training sessions",
+        "Customized diet plan with bi-weekly updates",
+        "Recovery zone access (sauna, ice bath, massage chair)",
+        "Premium locker with towel service",
+        "Free body composition scan every month",
+        "Early access to bootcamps and transformation programs",
+        "Priority booking for fitness events and workshops",
+        "Access to personal performance dashboard via mobile app",
+        "Monthly 1-on-1 session with head trainer",
+        "Exclusive gym merchandise kit (t-shirt, shaker, towel)"
+      ],
+      "perk": "Bring-a-friend Fridays (guest access once a week)"
+    }
+  ]
+}
