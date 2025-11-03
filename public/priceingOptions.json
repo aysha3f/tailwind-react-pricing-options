@@ -1,5 +1,4 @@
-{
-  "pricing_options": [
+ [
     {
       "id": "plan_001",
       "name": "Starter Pack",
@@ -58,4 +57,4 @@
       "perk": "Bring-a-friend Fridays (guest access once a week)"
     }
   ]
-}
+
