@@ -6,6 +6,7 @@ const PricingFeatures = ({feature}) => {
         <p className='flex'>
 {feature}</p>
     );
+
 };
 
 export default PricingFeatures;
