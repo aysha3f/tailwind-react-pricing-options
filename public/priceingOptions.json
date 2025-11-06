@@ -19,6 +19,7 @@
     },
     {
       "id": "plan_002",
+      "popular": true,
       "name": "Pro Pack",
       "price": "₹2,799 / month",
       "ideal_for": "Regular gym-goers who want structure and extra motivation",
